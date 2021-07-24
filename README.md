@@ -29,9 +29,15 @@ This project implements the following ML algorithms:
 
 - [Spectral Clustering](./hw_4/ml2019fall_hw4/spectral_clustering/spectral_exp.ipynb)
 
+- [Decision Tree](./decision_tree/run.ipynb)
+
 ## Data Preparation
 
 ```shell
 cd ./hw_1
 tar -xzf data.tar.gz
 ```
+
+## Other
+
+[AMCS_ZJU](https://github.com/zhaone/AMCS_ZJU): this project also implements some ML algorithm, like `Levenberg-Marquardt Optimization`, `SVM` etc.
